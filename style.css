@@ -1,0 +1,260 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+header {
+    background-color: #1d428a;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    width: 100%;
+    height: 90px;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: #c8102e;
+}
+
+header h1 {
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    left: 5%;
+    margin: 8px 8px 0px 8px;
+    font-size: 30px;
+    font-weight: 500px;
+}
+
+main {
+    display: inline-block;
+}
+
+aside {
+    display: inline-block;
+    position: relative;
+    margin: 90px 24px 24px 24px;
+    width: 250px;
+    padding: 10px 10px 0px 10px;
+}
+
+.sidebar-element fieldset {
+    border-style: none;
+    margin: 0px 0px 30px 0px;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.sidebar-element fieldset h2{
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px 0px 5px 0px;
+    font-weight: 750;
+}
+
+.sidebar-element fieldset label{
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.sidebar-element fieldset input{
+    width: 100%;
+    min-height: 25px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.sidebar-element fieldset input:focus{
+    outline: none;
+}
+
+.select-button {
+    background-color: #1d428a;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    padding: 0.5rem;
+    width: 100px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.select-button:focus {
+    outline: none;
+}
+
+.select-button:hover {
+    background-color: #2d70a7;
+}
+
+.reset-button {
+    background-color: #c8102e;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    padding: 0.5rem;
+    width: 100px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.reset-button:focus {
+    outline: none;
+}
+
+.reset-button:hover {
+    background-color: #e42041;
+}
+
+.select-single {
+    border-style: solid;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: white;
+    width: 100%;
+    min-height: 30px;
+    max-height: 90px;
+    color: #232426;
+}
+
+section {
+    display: inline-block;
+    position: absolute;
+    margin-top: 150px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #1d428a;
+    color: white;
+}
+
+th, td {
+    border: 1px solid lightgrey;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+th {
+    background-color: #1d428a;
+    color: white;
+    min-width: 90px;
+    height: 30px;
+    padding: 0.5rem;
+    border-color: #1d428a;
+}
+
+.novis {
+    visibility:hidden;
+}
+
+.shown {
+    visibility:visible;
+}
+
+.hidden {
+    display:none;
+}
+
+.nohide {
+    display:inline-block;
+}
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.closespan {
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.modal {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1010;
+    overflow: scroll;
+    width: 100vw;
+}
+
+.modal-header h3 {
+    font-size: 18px;
+}
+
+.modal-dialog {
+    background-color: white;
+    width: 60%;
+    margin: 40px auto;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.modal-header {
+    position: relative;
+    padding: 10px 20px;
+    background-color: #c8102e;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.modal-close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background: none;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+    border: none;
+}
+
+.modal-close:focus {
+    outline: none;
+}
+
+.modal-close:hover {
+    color: #FF595E;
+}
+
+.modal-close:active {
+    color: #505050;
+}
+
+.modal-body {
+    margin: 30px;
+    font-size: 16px;
+}
+
+.modal-body h2 {
+    font-size: 18px;
+}
+
+.modal-body fieldset {
+    border: none;
+    background-color: #e0e0e0;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.modal-body fieldset label{
+    border: none;
+}

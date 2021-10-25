@@ -1,0 +1,2274 @@
+{
+  "teams": {
+    "76ers":{
+      "roster":[
+        {
+          "lastName" : "Bassey",
+          "firstName": "Charles"
+        },
+        {
+          "lastName" : "Curry",
+          "firstName": "Seth"
+        },
+        {
+          "lastName" : "Drummond",
+          "firstName": "Andre"
+        },
+        {
+          "lastName" : "Embiid",
+          "firstName": "Joel"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "Danny"
+        },
+        {
+          "lastName" : "Harris",
+          "firstName": "Tobias"
+        },
+        {
+          "lastName" : "Henry",
+          "firstName": "Aaron"
+        },
+        {
+          "lastName" : "Joe",
+          "firstName": "Isaiah"
+        },
+        {
+          "lastName" : "Korkmaz",
+          "firstName": "Furkan"
+        },
+        {
+          "lastName" : "Maxey",
+          "firstName": "Tyrese"
+        },
+        {
+          "lastName" : "Milton",
+          "firstName": "Shake"
+        },
+        {
+          "lastName" : "Niang",
+          "firstName": "Georges"
+        },
+        {
+          "lastName" : "Reed",
+          "firstName": "Paul"
+        },
+        {
+          "lastName" : "Riller",
+          "firstName": "Grant"
+        },
+        {
+          "lastName" : "Simmons",
+          "firstName": "Ben"
+        },
+        {
+          "lastName" : "Springer",
+          "firstName": "Jaden"
+        },
+        {
+          "lastName" : "Thybulle",
+          "firstName": "Matisse"
+        }
+      ],
+      "location" : "Philadelphia",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Pelicans"
+      } 
+    },
+    "Bucks":{
+      "roster":[
+        {
+          "lastName" : "Allen",
+          "firstName": "Grayson"
+        },
+        {
+          "lastName" : "Antetokounmpo",
+          "firstName": "Giannis"
+        },
+        {
+          "lastName" : "Antetokounmpo",
+          "firstName": "Thanasis"
+        },
+        {
+          "lastName" : "Connaughton",
+          "firstName": "Pat"
+        },
+        {
+          "lastName" : "DiVincenzo",
+          "firstName": "Donte"
+        },
+        {
+          "lastName" : "Hill",
+          "firstName": "George"
+        },
+        {
+          "lastName" : "Holiday",
+          "firstName": "Jrue"
+        },
+        {
+          "lastName" : "Hood",
+          "firstName": "Rodney"
+        },
+        {
+          "lastName" : "Kalaitzakis",
+          "firstName": "Georgeios"
+        },
+        {
+          "lastName" : "Lopez",
+          "firstName": "Brook"
+        },
+        {
+          "lastName" : "Mamukelashvili",
+          "firstName": "Sandro"
+        },
+        {
+          "lastName" : "Middleton",
+          "firstName": "Khris"
+        },
+        {
+          "lastName" : "Nwora",
+          "firstName": "Jordan"
+        },
+        {
+          "lastName" : "Ojeleye",
+          "firstName": "Semi"
+        },
+        {
+          "lastName" : "Portis",
+          "firstName": "Bobby"
+        },
+        {
+          "lastName" : "Robinson",
+          "firstName": "Justin"
+        }
+      ],
+      "location" : "Milwaukee",
+      "firstGame":{
+        "date" : "2021-10-19",
+        "opponent" : "Nets"
+      } 
+    },
+    "Bulls":{
+      "roster":[
+        {
+          "lastName" : "Ball",
+          "firstName": "Lonzo"
+        },
+        {
+          "lastName" : "Bradley",
+          "firstName": "Tony"
+        },
+        {
+          "lastName" : "Brown",
+          "firstName": "Troy"
+        },
+        {
+          "lastName" : "Caruso",
+          "firstName": "Alex"
+        },
+        {
+          "lastName" : "DeRozan",
+          "firstName": "DeMar"
+        },
+        {
+          "lastName" : "Donsunmu",
+          "firstName": "Ayo"
+        },
+        {
+          "lastName" : "Dotson",
+          "firstName": "Devon"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "Javonte"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "Alize"
+        },
+        {
+          "lastName" : "Jones",
+          "firstName": "Derrick"
+        },
+        {
+          "lastName" : "LaVine",
+          "firstName": "Zach"
+        },
+        {
+          "lastName" : "Simonovic",
+          "firstName": "Marko"
+        },
+        {
+          "lastName" : "Thomas",
+          "firstName": "Matt"
+        },
+        {
+          "lastName" : "Vucevic",
+          "firstName": "Nikola"
+        },
+        {
+          "lastName" : "White",
+          "firstName": "Coby"
+        },
+        {
+          "lastName" : "Williams",
+          "firstName": "Patrick"
+        }
+      ],
+      "location" : "Chicago",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Pistons"
+      } 
+    },
+    "Cavaliers":{
+      "roster":[
+        {
+          "lastName" : "Allen",
+          "firstName": "Jarret"
+        },
+        {
+          "lastName" : "Davis",
+          "firstName": "Ed"
+        },
+        {
+          "lastName" : "Fall",
+          "firstName": "Tacko"
+        },
+        {
+          "lastName" : "Garland",
+          "firstName": "Darius"
+        },
+        {
+          "lastName" : "Love",
+          "firstName": "Kevin"
+        },
+        {
+          "lastName" : "Markkanen",
+          "firstName": "Lauri"
+        },
+        {
+          "lastName" : "Mobley",
+          "firstName": "Evan"
+        },
+        {
+          "lastName" : "Nembhard",
+          "firstName": "RJ"
+        },
+        {
+          "lastName" : "Okoro",
+          "firstName": "Isaac"
+        },
+        {
+          "lastName" : "Pangos",
+          "firstName": "Kevin"
+        },
+        {
+          "lastName" : "Rubio",
+          "firstName": "Ricky"
+        },
+        {
+          "lastName" : "Sexton",
+          "firstName": "Collin"
+        },
+        {
+          "lastName" : "Stevens",
+          "firstName": "Lamar"
+        },
+        {
+          "lastName" : "Valentine",
+          "firstName": "Denzel"
+        },
+        {
+          "lastName" : "Wade",
+          "firstName": "Dean"
+        },
+        {
+          "lastName" : "Windler",
+          "firstName": "Dylan"
+        }
+      ],
+      "location" : "Cleveland",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Grizzlies"
+      } 
+    },
+    "Celtics":{
+      "roster":[
+        {
+          "lastName" : "Brown",
+          "firstName": "Jaylen"
+        },
+        {
+          "lastName" : "Bruno",
+          "firstName": "Fernando"
+        },
+        {
+          "lastName" : "Hauser",
+          "firstName": "Sam"
+        },
+        {
+          "lastName" : "Hernangomez",
+          "firstName": "Juancho"
+        },
+        {
+          "lastName" : "Horford",
+          "firstName": "Al"
+        },
+        {
+          "lastName" : "Kanter",
+          "firstName": "Enes"
+        },
+        {
+          "lastName" : "Langford",
+          "firstName": "Romeo"
+        },
+        {
+          "lastName" : "Nesmith",
+          "firstName": "Aaron"
+        },
+        {
+          "lastName" : "Parker",
+          "firstName": "Jabari"
+        },
+        {
+          "lastName" : "Pritchard",
+          "firstName": "Payton"
+        },
+        {
+          "lastName" : "Richardson",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Schroder",
+          "firstName": "Dennis"
+        },
+        {
+          "lastName" : "Smart",
+          "firstName": "Marcus"
+        },
+        {
+          "lastName" : "Tatum",
+          "firstName": "Jayson"
+        },
+        {
+          "lastName" : "Thomas",
+          "firstName": "Brodric"
+        },
+        {
+          "lastName" : "Williams",
+          "firstName": "Grant"
+        },
+        {
+          "lastName" : "Williams",
+          "firstName": "Robert"
+        }
+      ],
+      "location" : "Boston",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Knicks"
+      } 
+    },
+    "Clippers":{
+      "roster":[
+        {
+          "lastName" : "Batum",
+          "firstName": "Nicolas"
+        },
+        {
+          "lastName" : "Bledsoe",
+          "firstName": "Eric"
+        },
+        {
+          "lastName" : "Boston",
+          "firstName": "Brandon"
+        },
+        {
+          "lastName" : "Coffey",
+          "firstName": "Amir"
+        },
+        {
+          "lastName" : "George",
+          "firstName": "Paul"
+        },
+        {
+          "lastName" : "Hartenstein",
+          "firstName": "Isaiah"
+        },
+        {
+          "lastName" : "Ibaka",
+          "firstName": "Serge"
+        },
+        {
+          "lastName" : "Jackson",
+          "firstName": "Reggie"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "Keon"
+        },
+        {
+          "lastName" : "Kennard",
+          "firstName": "Luke"
+        },
+        {
+          "lastName" : "Leonard",
+          "firstName": "Kawhi"
+        },
+        {
+          "lastName" : "Mann",
+          "firstName": "Terance"
+        },
+        {
+          "lastName" : "Morris",
+          "firstName": "Marcus"
+        },
+        {
+          "lastName" : "Preston",
+          "firstName": "Jason"
+        },
+        {
+          "lastName" : "Scrubb",
+          "firstName": "Jay"
+        },
+        {
+          "lastName" : "Winslow",
+          "firstName": "Justice"
+        },
+        {
+          "lastName" : "Zubac",
+          "firstName": "Ivica"
+        }
+      ],
+      "location" : "LA",
+      "firstGame":{
+        "date" : "2021-10-21",
+        "opponent" : "Warriors"
+      } 
+    },
+    "Grizzlies":{
+      "roster":[
+        {
+          "lastName" : "Adams",
+          "firstName": "Steven"
+        },
+        {
+          "lastName" : "Aldama",
+          "firstName": "Santi"
+        },
+        {
+          "lastName" : "Anderson",
+          "firstName": "Kyle"
+        },
+        {
+          "lastName" : "Bane",
+          "firstName": "Desmond"
+        },
+        {
+          "lastName" : "Brooks",
+          "firstName": "Dillon"
+        },
+        {
+          "lastName" : "Clarke",
+          "firstName": "Brandon"
+        },
+        {
+          "lastName" : "Culver",
+          "firstName": "Jarret"
+        },
+        {
+          "lastName" : "Jackson",
+          "firstName": "Jaren"
+        },
+        {
+          "lastName" : "Jones",
+          "firstName": "Tyus"
+        },
+        {
+          "lastName" : "Konchar",
+          "firstName": "John"
+        },
+        {
+          "lastName" : "Melton",
+          "firstName": "De'Anthony"
+        },
+        {
+          "lastName" : "Merrill",
+          "firstName": "Sam"
+        },
+        {
+          "lastName" : "Morant",
+          "firstName": "Ja"
+        },
+        {
+          "lastName" : "Pons",
+          "firstName": "Yves"
+        },
+        {
+          "lastName" : "Tillie",
+          "firstName": "Killian"
+        },
+        {
+          "lastName" : "Tillman",
+          "firstName": "Xavier"
+        },
+        {
+          "lastName" : "Williams",
+          "firstName": "Ziaire"
+        }
+      ],
+      "location" : "Memphis",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Cavaliers"
+      } 
+    },
+    "Hawks":{
+      "roster":[
+        {
+          "lastName" : "Bogdanovic",
+          "firstName": "Bogdan"
+        },
+        {
+          "lastName" : "Capela",
+          "firstName": "Clint"
+        },
+        {
+          "lastName" : "Collins",
+          "firstName": "John"
+        },
+        {
+          "lastName" : "Cooper",
+          "firstName": "Sharife"
+        },
+        {
+          "lastName" : "Deing",
+          "firstName": "Gorgui"
+        },
+        {
+          "lastName" : "Gallinari",
+          "firstName": "Danillo"
+        },
+        {
+          "lastName" : "Hill",
+          "firstName": "Solomon"
+        },
+        {
+          "lastName" : "Huerter",
+          "firstName": "Kevin"
+        },
+        {
+          "lastName" : "Hunter",
+          "firstName": "De'Andre"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "Jalen"
+        },
+        {
+          "lastName" : "Luwawu-Cabarrot",
+          "firstName": "Timothe"
+        },
+        {
+          "lastName" : "Mays",
+          "firstName": "Skylar"
+        },
+        {
+          "lastName" : "Okongwu",
+          "firstName": "Onyeka"
+        },
+        {
+          "lastName" : "Reddish",
+          "firstName": "Cam"
+        },
+        {
+          "lastName" : "Williams",
+          "firstName": "Lou"
+        },
+        {
+          "lastName" : "Wright",
+          "firstName": "Delon"
+        },
+        {
+          "lastName" : "Young",
+          "firstName": "Trae"
+        }
+      ],
+      "location" : "Atlanta",
+      "firstGame":{
+        "date" : "2021-10-21",
+        "opponent" : "Mavericks"
+      } 
+    },
+    "Heat":{
+      "roster":[
+        {
+          "lastName" : "Adebayo",
+          "firstName": "Bam"
+        },
+        {
+          "lastName" : "Butler",
+          "firstName": "Jimmy"
+        },
+        {
+          "lastName" : "Dedmon",
+          "firstName": "Dewayne"
+        },
+        {
+          "lastName" : "Garrett",
+          "firstName": "Marcus"
+        },
+        {
+          "lastName" : "Haslem",
+          "firstName": "Udonis"
+        },
+        {
+          "lastName" : "Herro",
+          "firstName": "Tyler"
+        },
+        {
+          "lastName" : "Lowry",
+          "firstName": "Kyle"
+        },
+        {
+          "lastName" : "Martin",
+          "firstName": "Caleb"
+        },
+        {
+          "lastName" : "Morris",
+          "firstName": "Markieff"
+        },
+        {
+          "lastName" : "Okpala",
+          "firstName": "KZ"
+        },
+        {
+          "lastName" : "Oladipo",
+          "firstName": "Victor"
+        },
+        {
+          "lastName" : "Robinson",
+          "firstName": "Duncan"
+        },
+        {
+          "lastName" : "Strus",
+          "firstName": "Max"
+        },
+        {
+          "lastName" : "Tucker",
+          "firstName": "P.J."
+        },
+        {
+          "lastName" : "Vincent",
+          "firstName": "Gabe"
+        },
+        {
+          "lastName" : "Yurtseven",
+          "firstName": "Omer"
+        }
+      ],
+      "location" : "Miami",
+      "firstGame":{
+        "date" : "2021-10-21",
+        "opponent" : "Bucks"
+      } 
+    },
+    "Hornets":{
+      "roster":[
+        {
+          "lastName" : "Ball",
+          "firstName": "LeMelo"
+        },
+        {
+          "lastName" : "Bouknight",
+          "firstName": "James"
+        },
+        {
+          "lastName" : "Bridges",
+          "firstName": "Miles"
+        },
+        {
+          "lastName" : "Carey",
+          "firstName": "Vernon"
+        },
+        {
+          "lastName" : "Hayward",
+          "firstName": "Gordon"
+        },
+        {
+          "lastName" : "Jones",
+          "firstName": "Kai"
+        },
+        {
+          "lastName" : "Kulboka",
+          "firstName": "Arnoldas"
+        },
+        {
+          "lastName" : "Lewis",
+          "firstName": "Scottie"
+        },
+        {
+          "lastName" : "Martin",
+          "firstName": "Cody"
+        },
+        {
+          "lastName" : "McDaniels",
+          "firstName": "Jalen"
+        },
+        {
+          "lastName" : "Oubre",
+          "firstName": "Kelly"
+        },
+        {
+          "lastName" : "Plumlee",
+          "firstName": "Mason"
+        },
+        {
+          "lastName" : "Richards",
+          "firstName": "Nick"
+        },
+        {
+          "lastName" : "Rozier",
+          "firstName": "Terry"
+        },
+        {
+          "lastName" : "Smith",
+          "firstName": "Ish"
+        },
+        {
+          "lastName" : "Thor",
+          "firstName": "JT"
+        },
+        {
+          "lastName" : "Washington",
+          "firstName": "P.J."
+        }
+      ],
+      "location" : "Charlotte",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Pacers"
+      } 
+    },
+    "Jazz":{
+      "roster":[
+        {
+          "lastName" : "Azubuike",
+          "firstName": "Udoka"
+        },
+        {
+          "lastName" : "Bogdanovic",
+          "firstName": "Bojan"
+        },
+        {
+          "lastName" : "Bulter",
+          "firstName": "Jared"
+        },
+        {
+          "lastName" : "Clarkson",
+          "firstName": "Jordan"
+        },
+        {
+          "lastName" : "Conley",
+          "firstName": "Mike"
+        },
+        {
+          "lastName" : "Fitts",
+          "firstName": "Malik"
+        },
+        {
+          "lastName" : "Forrest",
+          "firstName": "Trent"
+        },
+        {
+          "lastName" : "Gay",
+          "firstName": "Rudy"
+        },
+        {
+          "lastName" : "Gobert",
+          "firstName": "Rudy"
+        },
+        {
+          "lastName" : "Hughes",
+          "firstName": "Elijah"
+        },
+        {
+          "lastName" : "Ingles",
+          "firstName": "Joe"
+        },
+        {
+          "lastName" : "Mitchell",
+          "firstName": "Donovan"
+        },
+        {
+          "lastName" : "O'Neale",
+          "firstName": "Royce"
+        },
+        {
+          "lastName" : "Oni",
+          "firstName": "Miye"
+        },
+        {
+          "lastName" : "Paschall",
+          "firstName": "Eric"
+        },
+        {
+          "lastName" : "Whiteside",
+          "firstName": "Hassan"
+        }
+      ],
+      "location" : "Utah",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Thunder"
+      } 
+    },
+    "Kings":{
+      "roster":[
+        {
+          "lastName" : "Bagley",
+          "firstName": "Marvin"
+        },
+        {
+          "lastName" : "Barnes",
+          "firstName": "Harrison"
+        },
+        {
+          "lastName" : "Davis",
+          "firstName": "Terence"
+        },
+        {
+          "lastName" : "Fox",
+          "firstName": "De'Aaron"
+        },
+        {
+          "lastName" : "Haliburton",
+          "firstName": "Tyrese"
+        },
+        {
+          "lastName" : "Harkless",
+          "firstName": "Maurice"
+        },
+        {
+          "lastName" : "Hield",
+          "firstName": "Buddy"
+        },
+        {
+          "lastName" : "Holmes",
+          "firstName": "Richaun"
+        },
+        {
+          "lastName" : "Jones",
+          "firstName": "Damian"
+        },
+        {
+          "lastName" : "King",
+          "firstName": "Louis"
+        },
+        {
+          "lastName" : "Len",
+          "firstName": "Alex"
+        },
+        {
+          "lastName" : "Metu",
+          "firstName": "Chimezie"
+        },
+        {
+          "lastName" : "Mitchell",
+          "firstName": "Davion"
+        },
+        {
+          "lastName" : "Queta",
+          "firstName": "Neemias"
+        },
+        {
+          "lastName" : "Ramsey",
+          "firstName": "Jahmi'us"
+        },
+        {
+          "lastName" : "Thompson",
+          "firstName": "Tristan"
+        },
+        {
+          "lastName" : "Woodward",
+          "firstName": "Robert"
+        }
+      ],
+      "location" : "Sacramento",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Trailblazers"
+      } 
+    },
+    "Knicks":{
+      "roster":[
+        {
+          "lastName" : "Barret",
+          "firstName": "RJ"
+        },
+        {
+          "lastName" : "Burks",
+          "firstName": "Alec"
+        },
+        {
+          "lastName" : "Fournier",
+          "firstName": "Evan"
+        },
+        {
+          "lastName" : "Gibson",
+          "firstName": "Taj"
+        },
+        {
+          "lastName" : "Grimes",
+          "firstName": "Quentin"
+        },
+        {
+          "lastName" : "Knox",
+          "firstName": "Kevin"
+        },
+        {
+          "lastName" : "McBride",
+          "firstName": "Miles"
+        },
+        {
+          "lastName" : "Noel",
+          "firstName": "Nerlens"
+        },
+        {
+          "lastName" : "Quickley",
+          "firstName": "Immanuel"
+        },
+        {
+          "lastName" : "Randle",
+          "firstName": "Julius"
+        },
+        {
+          "lastName" : "Robinson",
+          "firstName": "Mitchell"
+        },
+        {
+          "lastName" : "Rose",
+          "firstName": "Derrick"
+        },
+        {
+          "lastName" : "Samanic",
+          "firstName": "Luka"
+        },
+        {
+          "lastName" : "Selden",
+          "firstName": "Wayne"
+        },
+        {
+          "lastName" : "Sims",
+          "firstName": "Jericho"
+        },
+        {
+          "lastName" : "Toppin",
+          "firstName": "Obi"
+        },
+        {
+          "lastName" : "Walker",
+          "firstName": "Kemba"
+        }
+      ],
+      "location" : "New York",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Celtics"
+      } 
+    },
+    "Lakers":{
+      "roster":[
+        {
+          "lastName" : "Anthony",
+          "firstName": "Carmelo"
+        },
+        {
+          "lastName" : "Ariza",
+          "firstName": "Trevor"
+        },
+        {
+          "lastName" : "Bazemore",
+          "firstName": "Kent"
+        },
+        {
+          "lastName" : "Bradley",
+          "firstName": "Avery"
+        },
+        {
+          "lastName" : "Davis",
+          "firstName": "Anthony"
+        },
+        {
+          "lastName" : "Doumbouya",
+          "firstName": "Sekou"
+        },
+        {
+          "lastName" : "Wayne",
+          "firstName": "Ellington"
+        },
+        {
+          "lastName" : "Horton-Tucker",
+          "firstName": "Talen"
+        },
+        {
+          "lastName" : "Howard",
+          "firstName": "Dwight"
+        },
+        {
+          "lastName" : "Huff",
+          "firstName": "Jay"
+        },
+        {
+          "lastName" : "James",
+          "firstName": "LeBron"
+        },
+        {
+          "lastName" : "Jordan",
+          "firstName": "DeAndre"
+        },
+        {
+          "lastName" : "Monk",
+          "firstName": "Malik"
+        },
+        {
+          "lastName" : "Nunn",
+          "firstName": "Kendrick"
+        },
+        {
+          "lastName" : "Reaves",
+          "firstName": "Austin"
+        },
+        {
+          "lastName" : "Rondo",
+          "firstName": "Rajon"
+        },
+        {
+          "lastName" : "Westbrook",
+          "firstName": "Russell"
+        }
+      ],
+      "location" : "Los Angeles",
+      "firstGame":{
+        "date" : "2021-10-19",
+        "opponent" : "Warriors"
+      } 
+    },
+    "Magic":{
+      "roster":[
+        {
+          "lastName" : "Anthony",
+          "firstName": "Cole"
+        },
+        {
+          "lastName" : "Bamba",
+          "firstName": "Mo"
+        },
+        {
+          "lastName" : "Brazdeikis",
+          "firstName": "Ingas"
+        },
+        {
+          "lastName" : "Carter",
+          "firstName": "Wendell"
+        },
+        {
+          "lastName" : "Carter-Williams",
+          "firstName": "Michael"
+        },
+        {
+          "lastName" : "Fultz",
+          "firstName": "Markelle"
+        },
+        {
+          "lastName" : "Hampton",
+          "firstName": "R.J."
+        },
+        {
+          "lastName" : "Harris",
+          "firstName": "Gary"
+        },
+        {
+          "lastName" : "Isaac",
+          "firstName": "Johnathan"
+        },
+        {
+          "lastName" : "Lopez",
+          "firstName": "Robin"
+        },
+        {
+          "lastName" : "Moore",
+          "firstName": "E'Twaun"
+        },
+        {
+          "lastName" : "Okeke",
+          "firstName": "Chuma"
+        },
+        {
+          "lastName" : "Ross",
+          "firstName": "Terrence"
+        },
+        {
+          "lastName" : "Suggs",
+          "firstName": "Jalen"
+        },
+        {
+          "lastName" : "Wagner",
+          "firstName": "Franz"
+        },
+        {
+          "lastName" : "Wagner",
+          "firstName": "Morotz"
+        }
+      ],
+      "location" : "Orlando",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Spurs"
+      } 
+    },
+    "Mavericks":{
+      "roster":[
+        {
+          "lastName" : "Brown",
+          "firstName": "Moses"
+        },
+        {
+          "lastName" : "Brown",
+          "firstName": "Sterling"
+        },
+        {
+          "lastName" : "Brunson",
+          "firstName": "Jalen"
+        },
+        {
+          "lastName" : "Bullock",
+          "firstName": "Reggie"
+        },
+        {
+          "lastName" : "Burke",
+          "firstName": "Trey"
+        },
+        {
+          "lastName" : "Cauley-Stein",
+          "firstName": "Willie"
+        },
+        {
+          "lastName" : "Doncic",
+          "firstName": "Luka"
+        },
+        {
+          "lastName" : "Finney-Smith",
+          "firstName": "Dorian"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Hardaway",
+          "firstName": "Tim"
+        },
+        {
+          "lastName" : "Kleber",
+          "firstName": "Maxi"
+        },
+        {
+          "lastName" : "Marjanovic",
+          "firstName": "Boban"
+        },
+        {
+          "lastName" : "McLaughlin",
+          "firstName": "JaQuori"
+        },
+        {
+          "lastName" : "Ntilikina",
+          "firstName": "Frank"
+        },
+        {
+          "lastName" : "Omoruyi",
+          "firstName": "Eugene"
+        },
+        {
+          "lastName" : "Porzingis",
+          "firstName": "Kristaps"
+        },
+        {
+          "lastName" : "Powell",
+          "firstName": "Dwight"
+        }
+      ],
+      "location" : "Dallas",
+      "firstGame":{
+        "date" : "2021-10-21",
+        "opponent" : "Hawks"
+      } 
+    },
+    "Nets":{
+      "roster":[
+        {
+          "lastName" : "Aldridge",
+          "firstName": "LaMarcus"
+        },
+        {
+          "lastName" : "Bembry",
+          "firstName": "DeAndre"
+        },
+        {
+          "lastName" : "Brown",
+          "firstName": "Bruce"
+        },
+        {
+          "lastName" : "Carter",
+          "firstName": "Jevon"
+        },
+        {
+          "lastName" : "Claxton",
+          "firstName": "Nicolas"
+        },
+        {
+          "lastName" : "Duke",
+          "firstName": "David"
+        },
+        {
+          "lastName" : "Durant",
+          "firstName": "Kevin"
+        },
+        {
+          "lastName" : "Edwards",
+          "firstName": "Kessler"
+        },
+        {
+          "lastName" : "Griffen",
+          "firstName": "Blake"
+        },
+        {
+          "lastName" : "Harden",
+          "firstName": "James"
+        },
+        {
+          "lastName" : "Harris",
+          "firstName": "Joe"
+        },
+        {
+          "lastName" : "Irving",
+          "firstName": "Kyrie"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "James"
+        },
+        {
+          "lastName" : "Mills",
+          "firstName": "Patty"
+        },
+        {
+          "lastName" : "Millsap",
+          "firstName": "Paul"
+        },
+        {
+          "lastName" : "Sharpe",
+          "firstName": "Day'Ron"
+        },
+        {
+          "lastName" : "Thomas",
+          "firstName": "Cameron"
+        }
+      ],
+      "location" : "Brooklyn",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Celtics"
+      } 
+    },
+    "Nuggets":{
+      "roster":[
+        {
+          "lastName" : "Barton",
+          "firstName": "Will"
+        },
+        {
+          "lastName" : "Bol",
+          "firstName": "Bol"
+        },
+        {
+          "lastName" : "Campazzo",
+          "firstName": "Facundo"
+        },
+        {
+          "lastName" : "Cancar",
+          "firstName": "Vlatko"
+        },
+        {
+          "lastName" : "Cornelie",
+          "firstName": "Petr"
+        },
+        {
+          "lastName" : "Dozier",
+          "firstName": "PJ"
+        },
+        {
+          "lastName" : "Gordon",
+          "firstName": "Aaron"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "JaMychal"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "Jeff"
+        },
+        {
+          "lastName" : "Howard",
+          "firstName": "Markus"
+        },
+        {
+          "lastName" : "Hyland",
+          "firstName": "Nah'Shon"
+        },
+        {
+          "lastName" : "Jokic",
+          "firstName": "Nikola"
+        },
+        {
+          "lastName" : "Morris",
+          "firstName": "Monte"
+        },
+        {
+          "lastName" : "Murray",
+          "firstName": "Jamal"
+        },
+        {
+          "lastName" : "Nnaji",
+          "firstName": "Zeke"
+        },
+        {
+          "lastName" : "Porter",
+          "firstName": "Michael"
+        },
+        {
+          "lastName" : "Austin",
+          "firstName": "Rivers"
+        }
+      ],
+      "location" : "Denver",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Suns"
+      } 
+    },
+    "Pacers":{
+      "roster":[
+        {
+          "lastName" : "Bitadze",
+          "firstName": "Goga"
+        },
+        {
+          "lastName" : "Brisset",
+          "firstName": "Oshae"
+        },
+        {
+          "lastName" : "Brogdon",
+          "firstName": "Malcolm"
+        },
+        {
+          "lastName" : "Craig",
+          "firstName": "Torrey"
+        },
+        {
+          "lastName" : "Duarte",
+          "firstName": "Chris"
+        },
+        {
+          "lastName" : "Holiday",
+          "firstName": "Justin"
+        },
+        {
+          "lastName" : "Jackson",
+          "firstName": "Isaiah"
+        },
+        {
+          "lastName" : "Jarreau",
+          "firstName": "DeJon"
+        },
+        {
+          "lastName" : "Lamb",
+          "firstName": "Jeremy"
+        },
+        {
+          "lastName" : "LeVert",
+          "firstName": "Caris"
+        },
+        {
+          "lastName" : "Martin",
+          "firstName": "Kelan"
+        },
+        {
+          "lastName" : "McConnell",
+          "firstName": "T.J."
+        },
+        {
+          "lastName" : "Sabonis",
+          "firstName": "Domantas"
+        },
+        {
+          "lastName" : "Turner",
+          "firstName": "Myles"
+        },
+        {
+          "lastName" : "Wanamaker",
+          "firstName": "Brad"
+        },
+        {
+          "lastName" : "Warren",
+          "firstName": "T.J."
+        },
+        {
+          "lastName" : "Washington",
+          "firstName": "Duane"
+        }
+      ],
+      "location" : "Indiana",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Hornets"
+      } 
+    },
+    "Pelicans":{
+      "roster":[
+        {
+          "lastName" : "Alexander-Walker",
+          "firstName": "Nickeil"
+        },
+        {
+          "lastName" : "Alvarado",
+          "firstName": "Jose"
+        },
+        {
+          "lastName" : "Graham",
+          "firstName": "Devonte"
+        },
+        {
+          "lastName" : "Hart",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Hayes",
+          "firstName": "Jaxson"
+        },
+        {
+          "lastName" : "Hernangomez",
+          "firstName": "Willy"
+        },
+        {
+          "lastName" : "Hommes",
+          "firstName": "Daulton"
+        },
+        {
+          "lastName" : "Ingram",
+          "firstName": "Brandon"
+        },
+        {
+          "lastName" : "Jones",
+          "firstName": "Herbert"
+        },
+        {
+          "lastName" : "Lewis",
+          "firstName": "Kira"
+        },
+        {
+          "lastName" : "Louzada",
+          "firstName": "Didi"
+        },
+        {
+          "lastName" : "Marshall",
+          "firstName": "Naji"
+        },
+        {
+          "lastName" : "Murphy",
+          "firstName": "Trey"
+        },
+        {
+          "lastName" : "Satoransky",
+          "firstName": "Tomas"
+        },
+        {
+          "lastName" : "Temple",
+          "firstName": "Garrett"
+        },
+        {
+          "lastName" : "Valanciunas",
+          "firstName": "Jonas"
+        },
+        {
+          "lastName" : "Williamson",
+          "firstName": "Zion"
+        }
+      ],
+      "location" : "New Orleans",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "76ers"
+      } 
+    },
+    "Pistons":{
+      "roster":[
+        {
+          "lastName" : "Bey",
+          "firstName": "Saddiq"
+        },
+        {
+          "lastName" : "Cunningham",
+          "firstName": "Cade"
+        },
+        {
+          "lastName" : "Diallo",
+          "firstName": "Hamidou"
+        },
+        {
+          "lastName" : "Garza",
+          "firstName": "Luka"
+        },
+        {
+          "lastName" : "Grant",
+          "firstName": "Jerami"
+        },
+        {
+          "lastName" : "Hayes",
+          "firstName": "Killian"
+        },
+        {
+          "lastName" : "Jackson",
+          "firstName": "Frank"
+        },
+        {
+          "lastName" : "Jackson",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Joseph",
+          "firstName": "Cory"
+        },
+        {
+          "lastName" : "Lee",
+          "firstName": "Saben"
+        },
+        {
+          "lastName" : "Livers",
+          "firstName": "Isaiah"
+        },
+        {
+          "lastName" : "Lyles",
+          "firstName": "Trey"
+        },
+        {
+          "lastName" : "McGruder",
+          "firstName": "Rodney"
+        },
+        {
+          "lastName" : "Olynyk",
+          "firstName": "Kelly"
+        },
+        {
+          "lastName" : "Pickett",
+          "firstName": "Jamorko"
+        },
+        {
+          "lastName" : "Smith",
+          "firstName": "Chris"
+        },
+        {
+          "lastName" : "Stewart",
+          "firstName": "Isaiah"
+        }
+      ],
+      "location" : "Detroit",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Bulls"
+      } 
+    },
+    "Raptors":{
+      "roster":[
+        {
+          "lastName" : "Achiuwa",
+          "firstName": "Precious"
+        },
+        {
+          "lastName" : "Anunoby",
+          "firstName": "OG"
+        },
+        {
+          "lastName" : "Banton",
+          "firstName": "Dalano"
+        },
+        {
+          "lastName" : "Barnes",
+          "firstName": "Scottie"
+        },
+        {
+          "lastName" : "Birch",
+          "firstName": "Khem"
+        },
+        {
+          "lastName" : "Bonga",
+          "firstName": "Isaac"
+        },
+        {
+          "lastName" : "Boucher",
+          "firstName": "Chris"
+        },
+        {
+          "lastName" : "Champagnie",
+          "firstName": "Justin"
+        },
+        {
+          "lastName" : "Dekker",
+          "firstName": "Sam"
+        },
+        {
+          "lastName" : "Dragic",
+          "firstName": "Goran"
+        },
+        {
+          "lastName" : "Flynn",
+          "firstName": "Malachi"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "David"
+        },
+        {
+          "lastName" : "Mykhailiuk",
+          "firstName": "Sviatoslav"
+        },
+        {
+          "lastName" : "Siakam",
+          "firstName": "Pascal"
+        },
+        {
+          "lastName" : "Trent",
+          "firstName": "Gary"
+        },
+        {
+          "lastName" : "VanVleet",
+          "firstName": "Fred"
+        },
+        {
+          "lastName" : "Watanabe",
+          "firstName": "Yuta"
+        }
+      ],
+      "location" : "Toronto",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Wizards"
+      } 
+    },
+    "Rockets":{
+      "roster":[
+        {
+          "lastName" : "Austin",
+          "firstName": "D.J."
+        },
+        {
+          "lastName" : "Brooks",
+          "firstName": "Armoni"
+        },
+        {
+          "lastName" : "Christopher",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Garuba",
+          "firstName": "Usman"
+        },
+        {
+          "lastName" : "Gordon",
+          "firstName": "Eric"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "Jalen"
+        },
+        {
+          "lastName" : "House",
+          "firstName": "Danuel"
+        },
+        {
+          "lastName" : "Martin",
+          "firstName": "Kenyon"
+        },
+        {
+          "lastName" : "Mathews",
+          "firstName": "Garrison"
+        },
+        {
+          "lastName" : "Nix",
+          "firstName": "Daishen"
+        },
+        {
+          "lastName" : "Nwaba",
+          "firstName": "David"
+        },
+        {
+          "lastName" : "Porter",
+          "firstName": "Kevin"
+        },
+        {
+          "lastName" : "Sengun",
+          "firstName": "Alperen"
+        },
+        {
+          "lastName" : "Tate",
+          "firstName": "Jae'Sean"
+        },
+        {
+          "lastName" : "Theis",
+          "firstName": "Daniel"
+        },
+        {
+          "lastName" : "Wall",
+          "firstName": "John"
+        },
+        {
+          "lastName" : "Wood",
+          "firstName": "Christian"
+        }
+      ],
+      "location" : "Houston",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Timberwolves"
+      } 
+    },
+    "Spurs":{
+      "roster":[
+        {
+          "lastName" : "Bates-Diop",
+          "firstName": "Keita"
+        },
+        {
+          "lastName" : "Cacok",
+          "firstName": "Devontae"
+        },
+        {
+          "lastName" : "Collins",
+          "firstName": "Zach"
+        },
+        {
+          "lastName" : "Eubanks",
+          "firstName": "Drew"
+        },
+        {
+          "lastName" : "Forbes",
+          "firstName": "Bryn"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "Keldon"
+        },
+        {
+          "lastName" : "Jones",
+          "firstName": "Tre"
+        },
+        {
+          "lastName" : "Landale",
+          "firstName": "Jock"
+        },
+        {
+          "lastName" : "McDermott",
+          "firstName": "Doug"
+        },
+        {
+          "lastName" : "Murray",
+          "firstName": "Dejounte"
+        },
+        {
+          "lastName" : "Poltl",
+          "firstName": "Jakob"
+        },
+        {
+          "lastName" : "Primo",
+          "firstName": "Joshua"
+        },
+        {
+          "lastName" : "Vassell",
+          "firstName": "Devin"
+        },
+        {
+          "lastName" : "Walker",
+          "firstName": "Lonnia"
+        },
+        {
+          "lastName" : "White",
+          "firstName": "Derrick"
+        },
+        {
+          "lastName" : "Wieskamp",
+          "firstName": "Joe"
+        },
+        {
+          "lastName" : "Young",
+          "firstName": "Thaddeus"
+        }
+      ],
+      "location" : "San Antonio",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Magic"
+      } 
+    },
+    "Suns":{
+      "roster":[
+        {
+          "lastName" : "Ayton",
+          "firstName": "Deandre"
+        },
+        {
+          "lastName" : "Booker",
+          "firstName": "Devin"
+        },
+        {
+          "lastName" : "Bridges",
+          "firstName": "Mikal"
+        },
+        {
+          "lastName" : "Crowder",
+          "firstName": "Jae"
+        },
+        {
+          "lastName" : "Hutchison",
+          "firstName": "Chandler"
+        },
+        {
+          "lastName" : "Johnson",
+          "firstName": "Cameron"
+        },
+        {
+          "lastName" : "Kaminsky",
+          "firstName": "Frank"
+        },
+        {
+          "lastName" : "McGee",
+          "firstName": "JaVale"
+        },
+        {
+          "lastName" : "Nader",
+          "firstName": "Abdel"
+        },
+        {
+          "lastName" : "Paul",
+          "firstName": "Chris"
+        },
+        {
+          "lastName" : "Payne",
+          "firstName": "Cameron"
+        },
+        {
+          "lastName" : "Payton",
+          "firstName": "Elfrid"
+        },
+        {
+          "lastName" : "Saric",
+          "firstName": "Dario"
+        },
+        {
+          "lastName" : "Shamet",
+          "firstName": "Landry"
+        },
+        {
+          "lastName" : "Smith",
+          "firstName": "Jalen"
+        },
+        {
+          "lastName" : "Wainwright",
+          "firstName": "Ishmail"
+        }
+      ],
+      "location" : "Phoenix",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Nuggets"
+      } 
+    },
+    "Thunder":{
+      "roster":[
+        {
+          "lastName" : "Bazley",
+          "firstName": "Darius"
+        },
+        {
+          "lastName" : "Deck",
+          "firstName": "Gabriel"
+        },
+        {
+          "lastName" : "Dort",
+          "firstName": "Luguentz"
+        },
+        {
+          "lastName" : "Favors",
+          "firstName": "Derrick"
+        },
+        {
+          "lastName" : "Giddey",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Gilgeous-Alexander",
+          "firstName": "Shai"
+        },
+        {
+          "lastName" : "Jerome",
+          "firstName": "Ty"
+        },
+        {
+          "lastName" : "Krejci",
+          "firstName": "Vit"
+        },
+        {
+          "lastName" : "Maledon",
+          "firstName": "Theo"
+        },
+        {
+          "lastName" : "Mann",
+          "firstName": "Tre"
+        },
+        {
+          "lastName" : "Muscala",
+          "firstName": "Mike"
+        },
+        {
+          "lastName" : "Pokusevski",
+          "firstName": "Aleksej"
+        },
+        {
+          "lastName" : "Robinson-Earl",
+          "firstName": "Jeremiah"
+        },
+        {
+          "lastName" : "Roby",
+          "firstName": "Isaiah"
+        },
+        {
+          "lastName" : "Watson",
+          "firstName": "Paul"
+        },
+        {
+          "lastName" : "Wiggins",
+          "firstName": "Aaron"
+        },
+        {
+          "lastName" : "Williams",
+          "firstName": "Kenrich"
+        }
+      ],
+      "location" : "Oklahoma City",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Jazz"
+      } 
+    },
+    "Timberwolves":{
+      "roster":[
+        {
+          "lastName" : "Beasley",
+          "firstName": "Malik"
+        },
+        {
+          "lastName" : "Beverly",
+          "firstName": "Patrick"
+        },
+        {
+          "lastName" : "Bolmaro",
+          "firstName": "Leandro"
+        },
+        {
+          "lastName" : "Edwards",
+          "firstName": "Anthony"
+        },
+        {
+          "lastName" : "Knight",
+          "firstName": "Nathan"
+        },
+        {
+          "lastName" : "Layman",
+          "firstName": "Jake"
+        },
+        {
+          "lastName" : "McDaniels",
+          "firstName": "Jaden"
+        },
+        {
+          "lastName" : "McLaughlin",
+          "firstName": "Jordan"
+        },
+        {
+          "lastName" : "Nowell",
+          "firstName": "Jaylen"
+        },
+        {
+          "lastName" : "Okogie",
+          "firstName": "Josh"
+        },
+        {
+          "lastName" : "Prince",
+          "firstName": "Taurean"
+        },
+        {
+          "lastName" : "Reid",
+          "firstName": "Naz"
+        },
+        {
+          "lastName" : "Russell",
+          "firstName": "D'Angelo"
+        },
+        {
+          "lastName" : "Towns",
+          "firstName": "Karl-Anthony"
+        },
+        {
+          "lastName" : "Vanderbilt",
+          "firstName": "Jarred"
+        },
+        {
+          "lastName" : "Wright IV",
+          "firstName": "McKinley"
+        }
+      ],
+      "location" : "Minnesota",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Rockets"
+      } 
+    },
+    "Trailblazers":{
+      "roster":[
+        {
+          "lastName" : "Blevins",
+          "firstName": "Keljin"
+        },
+        {
+          "lastName" : "Brown",
+          "firstName": "Greg"
+        },
+        {
+          "lastName" : "Convington",
+          "firstName": "Robert"
+        },
+        {
+          "lastName" : "Elleby",
+          "firstName": "C.J."
+        },
+        {
+          "lastName" : "Lillard",
+          "firstName": "Damian"
+        },
+        {
+          "lastName" : "Little",
+          "firstName": "Nassir"
+        },
+        {
+          "lastName" : "McCollum",
+          "firstName": "CJ"
+        },
+        {
+          "lastName" : "McLemore",
+          "firstName": "Ben"
+        },
+        {
+          "lastName" : "Nance",
+          "firstName": "Larry"
+        },
+        {
+          "lastName" : "Nurkic",
+          "firstName": "Jusuf"
+        },
+        {
+          "lastName" : "Powell",
+          "firstName": "Norman"
+        },
+        {
+          "lastName" : "Simons",
+          "firstName": "Anfernee"
+        },
+        {
+          "lastName" : "Snell",
+          "firstName": "Tony"
+        },
+        {
+          "lastName" : "Watford",
+          "firstName": "Trendon"
+        },
+        {
+          "lastName" : "Zeller",
+          "firstName": "Cody"
+        }
+      ],
+      "location" : "Portland",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Kings"
+      } 
+    },
+    "Warriors":{
+      "roster":[
+        {
+          "lastName" : "Bjelica",
+          "firstName": "Nemanja"
+        },
+        {
+          "lastName" : "Chiozza",
+          "firstName": "Chris"
+        },
+        {
+          "lastName" : "Curry",
+          "firstName": "Stephen"
+        },
+        {
+          "lastName" : "Dowtin",
+          "firstName": "Jeff"
+        },
+        {
+          "lastName" : "Green",
+          "firstName": "Draymond"
+        },
+        {
+          "lastName" : "Iguodala",
+          "firstName": "Andre"
+        },
+        {
+          "lastName" : "Kuminga",
+          "firstName": "Jonathan"
+        },
+        {
+          "lastName" : "Lee",
+          "firstName": "Damion"
+        },
+        {
+          "lastName" : "Looney",
+          "firstName": "Kevon"
+        },
+        {
+          "lastName" : "Moody",
+          "firstName": "Moses"
+        },
+        {
+          "lastName" : "Payton",
+          "firstName": "Gary"
+        },
+        {
+          "lastName" : "Poole",
+          "firstName": "Jordan"
+        },
+        {
+          "lastName" : "Porter",
+          "firstName": "Otto"
+        },
+        {
+          "lastName" : "Thompson",
+          "firstName": "Klay"
+        },
+        {
+          "lastName" : "Toscano-Anderson",
+          "firstName": "Juan"
+        },
+        {
+          "lastName" : "Wiggins",
+          "firstName": "Andrew"
+        },
+        {
+          "lastName" : "Wiseman",
+          "firstName": "James"
+        }
+      ],
+      "location" : "Golden State",
+      "firstGame":{
+        "date" : "2021-10-19",
+        "opponent" : "Lakers"
+      } 
+    },
+    "Wizards":{
+      "roster":[
+        {
+          "lastName" : "Avdija",
+          "firstName": "Deni"
+        },
+        {
+          "lastName" : "Ayayi",
+          "firstName": "Joel"
+        },
+        {
+          "lastName" : "Beal",
+          "firstName": "Bradley"
+        },
+        {
+          "lastName" : "Bertans",
+          "firstName": "Davis"
+        },
+        {
+          "lastName" : "Bryant",
+          "firstName": "Thomas"
+        },
+        {
+          "lastName" : "Caldwell-Pope",
+          "firstName": "Kentavious"
+        },
+        {
+          "lastName" : "Dinwiddie",
+          "firstName": "Spencer"
+        },
+        {
+          "lastName" : "Gafford",
+          "firstName": "Daniel"
+        },
+        {
+          "lastName" : "Gill",
+          "firstName": "Anthony"
+        },
+        {
+          "lastName" : "Hachimura",
+          "firstName": "Rui"
+        },
+        {
+          "lastName" : "Harrell",
+          "firstName": "Montrezl"
+        },
+        {
+          "lastName" : "Holiday",
+          "firstName": "Aaron"
+        },
+        {
+          "lastName" : "Kispert",
+          "firstName": "Coery"
+        },
+        {
+          "lastName" : "Kuzma",
+          "firstName": "Kyle"
+        },
+        {
+          "lastName" : "Neto",
+          "firstName": "Raul"
+        },
+        {
+          "lastName" : "Todd",
+          "firstName": "Isiah"
+        },
+        {
+          "lastName" : "Winston",
+          "firstName": "Cassius"
+        }
+      ],
+      "location" : "Washington",
+      "firstGame":{
+        "date" : "2021-10-20",
+        "opponent" : "Raptors"
+      } 
+    }
+  }
+}

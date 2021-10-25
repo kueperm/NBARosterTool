@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link href="style.css" rel="stylesheet">
+        <title>CS361 NBA Roster Tool MVP by Matt Kueper</title>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
+
+    </head>
+        <body>
+
+            <header>
+                <h1>NBA Roster Viewer</h1>
+            </header>
+
+            <aside class ="dropdown-container">
+                <form class="sidebar-element">
+                    <fieldset>
+                    <h2>Select an NBA Team</h2>
+                        <input class="select-button" type="button" id="selbut" value="Select">
+                        <br>
+                        <br>
+                        <input class="reset-button" type="submit" id="resbut" value="Reset">
+                        <br>
+                        <br>
+                        <label>
+                            <select id ="teamsList" name ="teamsList" class="select-single">
+                                    <option value = "none"></option>
+                                    <option value = "76ers">76ers</option>
+                                    <option value = "Bucks">Bucks</option>
+                                    <option value = "Bulls">Bulls</option>
+                                    <option value = "Cavaliers">Cavaliers</option>
+                                    <option value = "Celtics">Celtics</option>
+                                    <option value = "Clippers">Clippers</option>
+                                    <option value = "Grizzlies">Grizzlies</option>
+                                    <option value = "Hawks">Hawks</option>
+                                    <option value = "Heat">Heat</option>
+                                    <option value = "Hornets">Hornets</option>
+                                    <option value = "Jazz">Jazz</option>
+                                    <option value = "Kings">Kings</option>
+                                    <option value = "Knicks">Knicks</option>
+                                    <option value = "Lakers">Lakers</option>
+                                    <option value = "Magic">Magic</option>
+                                    <option value = "Mavericks">Mavericks</option>
+                                    <option value = "Nets">Nets</option>
+                                    <option value = "Nuggets">Nuggets</option>
+                                    <option value = "Pacers">Pacers</option>
+                                    <option value = "Pelicans">Pelicans</option>
+                                    <option value = "Pistons">Pistons</option>
+                                    <option value = "Raptors">Raptors</option>
+                                    <option value = "Rockets">Rockets</option>
+                                    <option value = "Spurs">Spurs</option>
+                                    <option value = "Suns">Suns</option>
+                                    <option value = "Thunder">Thunder</option>
+                                    <option value = "Timberwolves">Timberwolves</option>
+                                    <option value = "Trailblazers">Trailblazers</option>
+                                    <option value = "Warriors">Warriors</option>
+                                    <option value = "Wizards">Wizards</option>
+                            </select>
+                        </label>                   
+                        <br>
+                    </fieldset>
+                </form>    
+            </aside>
+
+            <section id="roster-disp" class="novis">
+                <table id="roster-table">
+                    <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th></th>                 
+                        </tr>
+                    </thead>
+                    <tbody>                  
+                        <tr id="r1" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r2" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r3" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r4" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r5" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r6" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r7" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r8" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r9" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r10" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r11" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>    
+                        <tr id="r12" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r13">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r14" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r15" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r16" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r17" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r18" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r19" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr id="r20" >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>       
+
+            <div id="modal-backdrop" class="modal-backdrop hidden"></div>
+
+            <div id="modal" class="modal hidden">
+        
+                <div class="modal-dialog">
+                
+                    <div class="modal-header">
+                        <button type ="button" class="modal-hide-button modal-close" id="x-button">&times;</button>
+                        <h3> Please Select a Team: </h3>
+                    </div>
+
+                    <form class="modal-body" id = "modalform">
+
+                        <fieldset> 
+                            <h2>Please choose a team from the dropdown menu before clicking on "Select".</h2>          
+                        </fieldset>
+                    </form>    
+                </div>
+            </div>
+
+            <script src="script.js"></script>
+        </body>
+</html>
+
+
