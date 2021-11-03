@@ -2,10 +2,14 @@
 
 //Load NBA teams data JSON via REST request
 var reqNBA = new XMLHttpRequest();
-reqNBA.open('GET', 'http://localhost:3000/teams', false);
+//reqNBA.open('GET', 'http://localhost:3030/teams', false);
+reqNBA.open('GET', 'https://teamservice.herokuapp.com/', false);
 reqNBA.send(null);
 var NBAdata = JSON.parse(reqNBA.responseText);
-console.log(NBAdata);
+//console.log(NBAdata);
+//drill down 1 layer in JSON to teams
+NBAdata = NBAdata.teams;
+//console.log(NBAdata);
 
 document.getElementById("selbut").addEventListener("click", event => {
 
