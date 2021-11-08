@@ -39,7 +39,18 @@ document.getElementById("selbut").addEventListener("click", event => {
                 //accessed 10/24/2021
                 var playerpic = document.createElement("img");
                 //using https://picsum.photos/200 to generate "fake" players images currently for UI/UX example
-                playerpic.setAttribute('src', 'https://picsum.photos/200');
+                //playerpic.setAttribute('src', 'https://picsum.photos/200');
+
+                var apiKey = "eb93af8d2dfa4c718d73c5e57c8a7865";
+                var imgSearch = 'NBA+' + NBAdata[teamname].roster[row-1].firstName + '+' + NBAdata[teamname].roster[row-1].lastName;
+                var imgURL =`https://api-test-10065.herokuapp.com/api_img?key=${apiKey}&search=${imgSearch}`;
+
+                var reqImglink = new XMLHttpRequest();
+                reqImglink.open('GET', imgURL, false);
+                reqImglink.send(null);
+                var imglink = JSON.parse(reqImglink.responseText);
+
+                playerpic.setAttribute('src', imglink.image)
                 playerpic.setAttribute('alt', 'na');
                 playerpic.width = '200';
                 playerpic.height = '200';
