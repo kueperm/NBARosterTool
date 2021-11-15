@@ -42,7 +42,7 @@ document.getElementById("selbut").addEventListener("click", event => {
                 //playerpic.setAttribute('src', 'https://picsum.photos/200');
 
                 var apiKey = "eb93af8d2dfa4c718d73c5e57c8a7865";
-                var imgSearch = 'NBA+' + NBAdata[teamname].roster[row-1].firstName + '+' + NBAdata[teamname].roster[row-1].lastName;
+                var imgSearch = 'NBA+' + NBAdata[teamname].roster[row-1].firstName + '+' + NBAdata[teamname].roster[row-1].lastName + '+' + teamname;
                 var imgURL =`https://api-test-10065.herokuapp.com/api_img?key=${apiKey}&search=${imgSearch}`;
 
                 var reqImglink = new XMLHttpRequest();
@@ -52,14 +52,16 @@ document.getElementById("selbut").addEventListener("click", event => {
 
                 playerpic.setAttribute('src', imglink.image)
                 playerpic.setAttribute('alt', 'na');
-                playerpic.width = '200';
+                //playerpic.width = '200';
                 playerpic.height = '200';
 
                 if (document.getElementById(currow).cells[2].firstChild) {
                     document.getElementById(currow).cells[2].removeChild(document.getElementById(currow).cells[2].firstChild);
                     document.getElementById(currow).cells[2].appendChild(playerpic);
+                    document.getElementById(currow).cells[2].align="center";
                 } else {
                     document.getElementById(currow).cells[2].appendChild(playerpic);
+                    document.getElementById(currow).cells[2].align="center";
                 }
 
             } else {
