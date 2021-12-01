@@ -2,14 +2,11 @@
 
 //Load NBA teams data JSON via REST request
 var reqNBA = new XMLHttpRequest();
-//reqNBA.open('GET', 'http://localhost:3030/teams', false);
 reqNBA.open('GET', 'https://teamservice.herokuapp.com/', false);
 reqNBA.send(null);
 var NBAdata = JSON.parse(reqNBA.responseText);
-//console.log(NBAdata);
 //drill down 1 layer in JSON to teams
 NBAdata = NBAdata.teams;
-//console.log(NBAdata);
 
 document.getElementById("selbut").addEventListener("click", event => {
 
@@ -24,7 +21,6 @@ document.getElementById("selbut").addEventListener("click", event => {
         //add players from requested to to table and display 
         for (row=1; row <= 20; row++){
             var currow = "r" + row;
-            //document.getElementById(currow).className = "shown";
 
             if (row -1 < NBAdata[teamname].roster.length) {
                 if (document.getElementById(currow).className == "hidden"){
@@ -38,8 +34,6 @@ document.getElementById("selbut").addEventListener("click", event => {
                 //concepts based on: https://stackoverflow.com/questions/39221062/how-to-set-image-tag-to-the-html-table-with-javascript
                 //accessed 10/24/2021
                 var playerpic = document.createElement("img");
-                //using https://picsum.photos/200 to generate "fake" players images currently for UI/UX example
-                //playerpic.setAttribute('src', 'https://picsum.photos/200');
 
                 var apiKey = "eb93af8d2dfa4c718d73c5e57c8a7865";
                 var imgSearch = 'NBA+' + NBAdata[teamname].roster[row-1].firstName + '+' + NBAdata[teamname].roster[row-1].lastName + '+' + teamname;
@@ -52,7 +46,6 @@ document.getElementById("selbut").addEventListener("click", event => {
 
                 playerpic.setAttribute('src', imglink.image)
                 playerpic.setAttribute('alt', 'na');
-                //playerpic.width = '200';
                 playerpic.height = '200';
 
                 if (document.getElementById(currow).cells[2].firstChild) {
